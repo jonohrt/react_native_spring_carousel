@@ -1,0 +1,100 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-spring-carousel",
+        "scope": null,
+        "escapedName": "react-native-spring-carousel",
+        "name": "react-native-spring-carousel",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/jon/Projects/Sansaire/mobilesansaire"
+    ]
+  ],
+  "_from": "react-native-spring-carousel@latest",
+  "_id": "react-native-spring-carousel@0.3.4",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-spring-carousel",
+  "_nodeVersion": "6.0.0",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/react-native-spring-carousel-0.3.4.tgz_1464077297379_0.8155981563031673"
+  },
+  "_npmUser": {
+    "name": "notlose",
+    "email": "notlose@hotmail.com"
+  },
+  "_npmVersion": "3.8.6",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-spring-carousel",
+    "scope": null,
+    "escapedName": "react-native-spring-carousel",
+    "name": "react-native-spring-carousel",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-spring-carousel/-/react-native-spring-carousel-0.3.4.tgz",
+  "_shasum": "b9445b6ededb84cf391a714503e45baa1d49c5e6",
+  "_shrinkwrap": null,
+  "_spec": "react-native-spring-carousel",
+  "_where": "/Users/jon/Projects/Sansaire/mobilesansaire",
+  "author": {
+    "name": "Alex Spring",
+    "email": "notlose@hotmail.com",
+    "url": "https://github.com/notlose"
+  },
+  "bugs": {
+    "url": "https://github.com/notlose/react-native-spring-carousel/issues"
+  },
+  "dependencies": {
+    "react-timer-mixin": "^0.13.3",
+    "rebound": "^0.0.13"
+  },
+  "description": "Carousel component for react-native implemented by View",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "b9445b6ededb84cf391a714503e45baa1d49c5e6",
+    "tarball": "https://registry.npmjs.org/react-native-spring-carousel/-/react-native-spring-carousel-0.3.4.tgz"
+  },
+  "gitHead": "b25dc2921ff8863bb282178f1e0f233eb1521736",
+  "homepage": "https://github.com/notlose/react-native-spring-carousel",
+  "keywords": [
+    "react-native",
+    "swiper",
+    "carousel",
+    "react",
+    "native",
+    "ios",
+    "android",
+    "react-component"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "notlose",
+      "email": "notlose@hotmail.com"
+    }
+  ],
+  "name": "react-native-spring-carousel",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notlose/react-native-spring-carousel.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.3.4"
+}
